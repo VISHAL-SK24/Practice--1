@@ -1,4 +1,4 @@
 # Practice--1
-practicing the github.
+Practicing the github.
 <br>
 Author-Vishal
